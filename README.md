@@ -3,7 +3,7 @@ A program that reads one line from a file (255 characters) and deletes words pal
 
 Written in C
 
-IDE: Codeblocks
+Names of data and result files are read as parameters
 
 Author: Deividas Brazenas
 
